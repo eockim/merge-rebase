@@ -9,7 +9,7 @@ const master = function masterBranch(){
 
 const mBranch = function mergeBranch(){
     
-    const merge = 'merge-b';
+    const merge = 'merge-b-1';
     console.log(`branch : ${merge}`);
 
     return merge;
