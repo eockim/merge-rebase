@@ -6,3 +6,12 @@ const master = function masterBranch(){
     return master;
 
 };
+
+const mBranch = function mergeBranch(){
+    
+    const merge = 'merge-b';
+    console.log(`branch : ${merge}`);
+
+    return merge;
+
+}
