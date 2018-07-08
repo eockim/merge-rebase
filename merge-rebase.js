@@ -15,3 +15,10 @@ const mBranch = function mergeBranch(){
     return `#`+merge+`#`;
 
 }
+
+const rBranch = function rebaseBranch(){
+    const rebase = 'rebase-1';
+    console.log(`branch : ${merge}`);
+
+    return rebase;
+}
