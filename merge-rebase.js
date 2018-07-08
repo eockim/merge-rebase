@@ -1,6 +1,6 @@
 const master = function masterBranch(){
 
-    const master = 100;
+    const master = 1000;
     console.log(`master branch : ${master}`);
 
     return master;
